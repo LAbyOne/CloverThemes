@@ -57,7 +57,7 @@ all Logos are Animated
 ![Screenshot](NotWhite/screenshot.png)
 
 # Pitch Black - NotWhite v.2
-![Screenshot](NotWhite_v.2/screenshot.png)
+![Screenshot](NotWhite_2/screenshot.png)
 
 # Pitch Black - Ochre
 ![Screenshot](Ochre/screenshot.png)
