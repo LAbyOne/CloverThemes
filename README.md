@@ -41,19 +41,22 @@ all Logos are Animated
 # 
 # Circles
 ![Screenshot](Circles/screenshot.png)
+# 
 # Flowers
 ![Screenshot](Flowers/screenshot.png)
+# 
 # Horrible Gold
 ![Screenshot](Horrible_Gold/screenshot.png)
+# 
 # Horrible Gold Inversed
 ![Screenshot](Horrible_Gold_v.2.0/screenshot.png)
+# 
 # Waves
 ![Screenshot](Waves/screenshot.png)
 # 
 # Pitch Black
-
 ### 6 variations backgrounds:
-# 
+
 # Pitch Black
 ![Screenshot](Black/screenshot.png)
 # 
