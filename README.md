@@ -28,6 +28,7 @@ all Logos are Animated
 # 
 #  Lavender Black
 ![Screenshot](Lavender_Black/screenshot.png)
+# 
 ### New themes:
 # 
 # Purple
