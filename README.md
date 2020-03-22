@@ -87,3 +87,4 @@ Here also 1 background variation (darker clover)
 # 
 Direct Themes Download :  
 [Here](https://github.com/HelmoHass/CloverThemes/releases)
+# 
