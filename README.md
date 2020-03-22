@@ -48,7 +48,7 @@ all Logos are Animated
 ![Screenshot](Black/screenshot.png)
 
 This theme contains also 2 other background variations (lighter clover)
-
+# 
 # Pitch Black - Acqua
 ![Screenshot](Acqua/screenshot.png)
 
@@ -65,7 +65,7 @@ This theme contains also 2 other background variations (lighter clover)
 ![Screenshot](Ochre/screenshot.png)
 
 Here also 1 background variation (darker clover)
-
+# 
 # Pitch Black - Red
 ![Screenshot](Red/screenshot.png)
 
