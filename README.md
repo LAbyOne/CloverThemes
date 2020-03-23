@@ -56,6 +56,7 @@ all Logos are Animated
 ![Screenshot](Waves/screenshot.png)
 # 
 # SiverSex
+There is also 1 background variation inside (gray)
 ![Screenshot](SiverSex/screenshot.png)
 # 
 # Pitch Black
@@ -79,7 +80,7 @@ This theme contains also 2 other background variations (lighter clover)
 ![Screenshot](NotWhite_2/screenshot.png)
 # 
 # Pitch Black - Ochre
-Here also 1 background variation (darker clover)
+There is also 1 background variation inside (darker clover)
 # 
 ![Screenshot](Ochre/screenshot.png)
 # 
