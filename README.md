@@ -63,7 +63,7 @@ There is also 1 background variation inside (gray)
 # Pitch Black
 ### 6 variations backgrounds:
 
-# Pitch Black
+# Pitch Black - Black
 This theme contains also 2 other background variations (lighter clover)
 #
 ![Screenshot](Black/screenshot.png)
