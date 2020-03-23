@@ -57,7 +57,8 @@ all Logos are Animated
 # 
 # SiverSex
 There is also 1 background variation inside (gray)
-![Screenshot](SiverSex/screenshot.png)
+#
+![Screenshot](SilverSex/screenshot.png)
 # 
 # Pitch Black
 ### 6 variations backgrounds:
