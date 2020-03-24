@@ -87,7 +87,7 @@ This theme contains also 2 other background variations (lighter clover)
 ### Pitch Black - NotWhite
 ![Screenshot](NotWhite/screenshot.png)
 # 
-# Pitch Black - NotWhite v.2
+#Pitch Black - NotWhite v.2
 ![Screenshot](NotWhite_2/screenshot.png)
 # 
 ### Pitch Black - Ochre
