@@ -54,38 +54,48 @@ all Logos are Animated
 # 
 # Waves
 ![Screenshot](Waves/screenshot.png)
-# 
-# SiverSex
-There is also 1 background variation inside (gray)
+#  
+# Silver
+This contains 4 variations
 #
-![Screenshot](SilverSex/screenshot.png)
+### Silver Light
+![Screenshot](SilverLight/ScreenShot.png)
+#
+### Silver Dark
+![Screenshot](SilverDark/ScreenShot.png)
 # 
-# Pitch Black
+### Silver Violet
+![Screenshot](SilverViolet/ScreenShot.png)
+#
+### SilverSexy
+![Screenshot](SilverSexy/ScreenShot.png)
+#
+### Pitch Black
 ### 6 variations backgrounds:
-
-# Pitch Black - Black
+#
+### Pitch Black - Black
 This theme contains also 2 other background variations (lighter clover)
 #
 ![Screenshot](Black/screenshot.png)
 #  
-# Pitch Black - Acqua
+### Pitch Black - Acqua
 ![Screenshot](Acqua/screenshot.png)
 # 
-# Pitch Black - DarkGray
+### Pitch Black - DarkGray
 ![Screenshot](DarkGray/screenshot.png)
 # 
-# Pitch Black - NotWhite
+### Pitch Black - NotWhite
 ![Screenshot](NotWhite/screenshot.png)
 # 
 # Pitch Black - NotWhite v.2
 ![Screenshot](NotWhite_2/screenshot.png)
 # 
-# Pitch Black - Ochre
+### Pitch Black - Ochre
 There is also 1 background variation inside (darker clover)
 # 
 ![Screenshot](Ochre/screenshot.png)
 # 
-# Pitch Black - Red
+### Pitch Black - Red
 ![Screenshot](Red/screenshot.png)
 # 
 
