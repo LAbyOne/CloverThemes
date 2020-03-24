@@ -59,16 +59,16 @@ all Logos are Animated
 This contains 4 variations
 #
 ### Silver Light
-![Screenshot](SilverLight/ScreenShot.png)
+![Screenshot](SilverLight/screenshot.png)
 #
 ### Silver Dark
-![Screenshot](SilverDark/ScreenShot.png)
+![Screenshot](SilverDark/screenshot.png)
 # 
 ### Silver Violet
-![Screenshot](SilverViolet/ScreenShot.png)
+![Screenshot](SilverViolet/screenshot.png)
 #
 ### SilverSexy
-![Screenshot](SilverSexy/ScreenShot.png)
+![Screenshot](SilverSexy/screenshot.png)
 #
 # Pitch Black
 ### 6 variations backgrounds:
