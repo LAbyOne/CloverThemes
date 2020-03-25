@@ -71,7 +71,7 @@ This contains 4 variations
 ![Screenshot](SilverSexy/screenshot.png)
 #
 # Pitch Black
-### 6 variations backgrounds:
+### 7 variations backgrounds:
 #
 ### Pitch Black - Black
 This theme contains also 2 other background variations (lighter clover)
@@ -97,6 +97,9 @@ There is also 1 background variation inside (darker clover)
 # 
 ### Pitch Black - Red
 ![Screenshot](Red/screenshot.png)
+# 
+### Pitch Black - Velvet
+![Screenshot](Pitch Black - Velvet/screenshot.png)
 # 
 
 # 
