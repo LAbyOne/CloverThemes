@@ -69,7 +69,10 @@ This contains 4 variations
 #
 ### SilverSexy
 ![Screenshot](SilverSexy/screenshot.png)
-#
+# 
+# Abstract Steel
+![Screenshot](Abstract_Steel/screenshot.png)
+#  
 # Pitch Black
 ### 7 variations backgrounds:
 #
