@@ -76,6 +76,21 @@ This contains 4 variations
 # Abstract Steel Vintage
 ![Screenshot](Abstract_Steel_Vintage/screenshot.png)
 # 
+# Cushion
+### 3 variations backgrounds:
+#
+### Cushion Orange
+#
+![Screenshot](Orange/screenshot.png)
+#
+### Cushion Blue
+#
+![Screenshot](Blue/screenshot.png) Coming soon
+#
+### Cushion Gray
+#
+![Screenshot](Gray/screenshot.png) Coming soon
+#   
 # Pitch Black
 ### 7 variations backgrounds:
 #
