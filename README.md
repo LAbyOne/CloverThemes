@@ -78,18 +78,19 @@ This contains 4 variations
 # 
 # Cushion
 ### 3 variations backgrounds:
+all have icons and font alternate to modify as you like
 #
 ### Cushion Orange
 #
-![Screenshot](Orange/screenshot.png)
+![Screenshot](Cushion_Orange/screenshot.png)
 #
-### Cushion Blue
+### Cushion Bluey
 #
-![Screenshot](Blue/screenshot.png) Coming soon
+![Screenshot](Cushion_Bluey/screenshot.png) Coming soon
 #
 ### Cushion Gray
 #
-![Screenshot](Gray/screenshot.png) Coming soon
+![Screenshot](Cushion_Gray/screenshot.png) Coming soon
 #   
 # Pitch Black
 ### 7 variations backgrounds:
