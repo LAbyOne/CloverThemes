@@ -86,11 +86,11 @@ all have icons and font alternate to modify as you like
 #
 ### Cushion Bluey
 #
-![Screenshot](Cushion_Bluey/screenshot.png) Coming soon
+![Screenshot](Cushion_Bluey/screenshot.png)
 #
 ### Cushion Gray
 #
-![Screenshot](Cushion_Gray/screenshot.png) Coming soon
+![Screenshot](Cushion_Gray/screenshot.png)
 #   
 # Pitch Black
 ### 7 variations backgrounds:
