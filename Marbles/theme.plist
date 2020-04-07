@@ -14,9 +14,9 @@
 				<key>DistanceFromScreenEdgeY%</key>
 				<integer>5</integer>
 				<key>FrameTime</key>
-				<integer>100</integer>
+				<integer>160</integer>
 				<key>Frames</key>
-				<integer>12</integer>
+				<integer>19</integer>
 				<key>ID</key>
 				<integer>1</integer>
 				<key>Once</key>
@@ -118,7 +118,7 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>1.0</string>
+	<string>2.0</string>
 	<key>Year</key>
 	<string>2020</string>
 </dict>
