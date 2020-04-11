@@ -167,5 +167,5 @@ There is also 1 background variation inside (darker clover)
 
 # 
 Direct Themes Download :  
-[Here](https://github.com/HelmoHass/CloverThemes/releases)
+[Here](https://github.com/LAbyOne/CloverThemes/releases)
 # 
