@@ -97,7 +97,7 @@ all have icons and font alternate to modify as you like
 #
 # Bloody Cushion
 #
-![Screenshot](Bloody_Cushio/screenshot.png)
+![Screenshot](Bloody_Cushion/screenshot.png)
 # 
 # Marbles
 ![Screenshot](Marbles/screenshot.png)
