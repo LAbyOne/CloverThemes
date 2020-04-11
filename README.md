@@ -94,6 +94,10 @@ all have icons and font alternate to modify as you like
 ### Cushion Gray
 #
 ![Screenshot](Cushion_Gray/screenshot.png)
+#
+# Bloody Cushion
+#
+![Screenshot](Bloody_Cushio/screenshot.png)
 # 
 # Marbles
 ![Screenshot](Marbles/screenshot.png)
