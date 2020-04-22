@@ -42,6 +42,8 @@
 		<dict>
 			<key>Inline</key>
 			<false/>
+			<key>Scale</key>
+			<integer>8</integer>
 			<key>Show</key>
 			<true/>
 			<key>Swap</key>
@@ -71,9 +73,9 @@
 		<key>Font</key>
 		<dict>
 			<key>CharWidth</key>
-			<integer>16</integer>
+			<integer>10</integer>
 			<key>Path</key>
-			<string>Font_KawkabMono_16pt_WhiteFx.png</string>
+			<string>Font_VerilySerif_16pt_BlueFx.png</string>
 			<key>Proportional</key>
 			<false/>
 			<key>Type</key>
