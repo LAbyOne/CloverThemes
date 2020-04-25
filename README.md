@@ -126,7 +126,11 @@ all have icons and font alternate to modify as you like
 # Marbles
 #
 ![Screenshot](Marbles/screenshot.png)
-#   
+# 
+# Zhuyin
+#
+![Screenshot](Zhuyin/screenshot.png)
+#    
 # Pitch Black
 ### 7 variations backgrounds:
 #
