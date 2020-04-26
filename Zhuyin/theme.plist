@@ -88,9 +88,9 @@
 			<key>ButtonOffset</key>
 			<integer>35</integer>
 			<key>SelectionBigWidth</key>
-			<integer>160</integer>
+			<integer>165</integer>
 			<key>SelectionSmallWidth</key>
-			<integer>64</integer>
+			<integer>70</integer>
 			<key>TileXSpace</key>
 			<integer>20</integer>
 			<key>TileYSpace</key>
