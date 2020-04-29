@@ -130,6 +130,10 @@ all have icons and font alternate to modify as you like
 # Zhuyin
 #
 ![Screenshot](Zhuyin/screenshot.png)
+# 
+# Miele
+#
+![Screenshot](Miele/screenshot.png)
 #    
 # Pitch Black
 ### 7 variations backgrounds:
