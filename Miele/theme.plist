@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>LAbyOne</string>
 	<key>Description</key>
-	<string>Miele (Homage to Milo Manara)</string>
+	<string>Miele (Hommage to Milo Manara)</string>
 	<key>Theme</key>
 	<dict>
 		<key>#Anime</key>
@@ -75,7 +75,7 @@
 			<key>CharWidth</key>
 			<integer>12</integer>
 			<key>Path</key>
-			<string>Mirosa-Blue_12pt.png</string>
+			<string>Mirosa-Blue_10pt.png</string>
 			<key>Proportional</key>
 			<false/>
 			<key>Type</key>
