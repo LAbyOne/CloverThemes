@@ -112,7 +112,7 @@
 			<key>ChangeNonSelectedGrey</key>
 			<false/>
 			<key>Color</key>
-			<string>0x33b7ff80</string>
+			<string>0x33b7ff40</string>
 			<key>OnTop</key>
 			<false/>
 			<key>Small</key>
