@@ -134,6 +134,10 @@ all have icons and font alternate to modify as you like
 # Miele
 #
 ![Screenshot](Miele/screenshot.png)
+# 
+# Sashiko
+#
+![Screenshot](Sashiko/screenshot.png)
 #    
 # Pitch Black
 ### 7 variations backgrounds:
