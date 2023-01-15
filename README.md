@@ -123,6 +123,10 @@ all have icons and font alternate to modify as you like
 #
 ![Screenshot](Bloody_Cushion/screenshot.png)
 # 
+# Delta
+#
+![Screenshot](Delta/screenshot.png)
+# 
 # Marbles
 #
 ![Screenshot](Marbles/screenshot.png)
