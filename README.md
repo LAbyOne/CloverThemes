@@ -164,9 +164,13 @@ This theme contains also 2 other background variations (lighter clover)
 #
 ![Screenshot](NotWhite/screenshot.png)
 # 
-#Pitch Black - NotWhite v.2
+### Pitch Black - NotWhite v.2
 ![Screenshot](NotWhite_2/screenshot.png)
 # 
+### Pitch Black - NotWhite Async
+![Screenshot](NotWhite_Async/screenshot.png)
+# 
+
 ### Pitch Black - Ochre
 There is also 1 background variation inside (darker clover)
 # 
@@ -182,6 +186,5 @@ There is also 1 background variation inside (darker clover)
 # 
 
 # 
-Direct Themes Download :  
-[Here](https://github.com/LAbyOne/CloverThemes/releases)
+[Themes Download](https://github.com/LAbyOne/CloverThemes/releases)
 # 
