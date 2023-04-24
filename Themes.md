@@ -1,6 +1,7 @@
   <!-- Header -->
   <header class="w3-container w3-xlarge w3-padding-30">
     <a href=""class="w3-left w3-text-blue w3-button w3-hsl(140,0%,13%)"><h1>My Clover Themes</h1> </a>
+    <a href=""class="w3-right w3-text-blue w3-button w3-hsl(140,0%,13%)"><h5>Click on images to enlarge </h5>
   </header>
  </div>
   <!-- Photo Grid -->
