@@ -5,10 +5,10 @@
 	<key>Author</key>
 	<string>LAbyOne</string>
 	<key>Description</key>
-	<string>Horrible Gold</string>
+	<string>Horrible Gold 2.1</string>
 	<key>Theme</key>
 	<dict>
-		<key>Anime</key>
+		<key>#Anime</key>
 		<array>
 			<dict>
 				<key>DistanceFromScreenEdgeY%</key>
@@ -16,7 +16,7 @@
 				<key>FrameTime</key>
 				<integer>160</integer>
 				<key>Frames</key>
-				<integer>23</integer>
+				<integer>22</integer>
 				<key>ID</key>
 				<integer>1</integer>
 				<key>Once</key>
@@ -75,7 +75,7 @@
 			<key>CharWidth</key>
 			<integer>10</integer>
 			<key>Path</key>
-			<string>Font_DroidSans_16pt_Gold.png</string>
+			<string>Neutra-LightAlt_16p.png</string>
 			<key>Proportional</key>
 			<false/>
 			<key>Type</key>
@@ -84,7 +84,7 @@
 		<key>Layout</key>
 		<dict>
 			<key>BannerOffset</key>
-			<string>250</string>
+			<string>200</string>
 			<key>ButtonOffset</key>
 			<integer>35</integer>
 			<key>SelectionBigWidth</key>
@@ -112,7 +112,7 @@
 			<key>ChangeNonSelectedGrey</key>
 			<false/>
 			<key>Color</key>
-			<string>0x22322c80</string>
+			<string>0x26170C80</string>
 			<key>OnTop</key>
 			<false/>
 			<key>Small</key>
@@ -120,8 +120,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>1.1</string>
+	<string>2.1</string>
 	<key>Year</key>
-	<string>2020</string>
+	<string>2023</string>
 </dict>
 </plist>
