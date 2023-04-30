@@ -67,6 +67,10 @@ all Logos are Animated
 # Horrible Gold
 #
 ![Screenshot](Horrible_Gold/screenshot.png)
+#
+# Horrible Gold II
+#
+![Screenshot](Horrible_Gold_II/screenshot.png)
 # 
 # Horrible Gold Inversed
 #
