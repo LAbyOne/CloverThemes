@@ -72,10 +72,6 @@ all Logos are Animated
 #
 ![Screenshot](Horrible_Gold_II/screenshot.png)
 # 
-# Horrible Gold Inversed
-#
-![Screenshot](Horrible_Gold_v.2.0/screenshot.png)
-# 
 # Waves
 #
 ![Screenshot](Waves/screenshot.png)
